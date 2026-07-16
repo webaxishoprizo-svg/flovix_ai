@@ -1,0 +1,11 @@
+node_modules
+.git
+.output
+.wrangler
+.lovable
+.vscode
+dist
+npm-debug.log
+Dockerfile*
+README.md
+*.local
